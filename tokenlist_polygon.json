@@ -14,14 +14,6 @@
     ],
     "tokens": [
       {
-        "name": "Aidi Finance",
-        "address": "0xDFc2C4ce66561c3ee53dbeA9ff78550F395a25e2",
-        "symbol": "AIDI",
-        "decimals": 18,
-        "chainId": 137,
-        "logoURI": "https://raw.githubusercontent.com/AidiFinance/Aidiverse-Creative/main/Logo/aidi_256.png"
-      },
-      {
         "name": "Ether",
         "address": "0x714550C2C1Ea08688607D86ed8EeF4f5E4F22323",
         "symbol": "ETH",
